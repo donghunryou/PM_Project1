@@ -74,7 +74,7 @@ Player 2's Tile : [ 1b(R), 5w(R), 6b(R), 6w(R), 9w(H), 10b(H) ]
 Player 2's Turn: 
 Clue tile received: 8w
 
-Target index is: 4, Guessed number is: 2
+Target index is: 4, Guessed number is: 3
 Incorrect guess! Player 2 reveals a clue tile. 
 
 Player 1's Tile : [ 0b(R), 0w(R), 1w(R), 7b(H), 7w(R), 10w(H), 11w(H) ]
