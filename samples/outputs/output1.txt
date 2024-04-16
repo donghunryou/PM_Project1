@@ -1,0 +1,96 @@
+Game Start!
+Player 1's Tile : [ 4b(H), 7b(H), 7w(H), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H) ]
+--------------------------------------------------------------------------------------------------
+Player 1's Turn: 
+Clue tile received: 3w
+
+Target index is: 1, Guessed number is: 0
+Incorrect guess! Player 1 reveals a clue tile. 
+
+Player 1's Tile : [ 3w(R), 4b(H), 7b(H), 7w(H), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H) ]
+--------------------------------------------------------------------------------------------------
+Player 2's Turn: 
+Clue tile received: 9w
+
+Target index is: 2, Guessed number is: 4
+Correct guess! Player 2 gets another turn. 
+
+Player 1's Tile : [ 3w(R), 4b(R), 7b(H), 7w(H), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H), 9w(H) ]
+--------------------------------------------------------------------------------------------------
+Player 2's Turn: 
+
+Target index is: 3, Guessed number is: 5
+Incorrect guess! Player 2 reveals a clue tile. 
+
+Player 1's Tile : [ 3w(R), 4b(R), 7b(H), 7w(H), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 1's Turn: 
+Clue tile received: 5b
+
+Target index is: 1, Guessed number is: 1
+Incorrect guess! Player 1 reveals a clue tile. 
+
+Player 1's Tile : [ 3w(R), 4b(R), 5b(R), 7b(H), 7w(H), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 2's Turn: 
+Clue tile received: 9b
+
+Target index is: 4, Guessed number is: 7
+Correct guess! Player 2 gets another turn. 
+
+Player 1's Tile : [ 3w(R), 4b(R), 5b(R), 7b(R), 7w(H), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H), 9b(H), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 2's Turn: 
+
+Target index is: 5, Guessed number is: 7
+Correct guess! Player 2 gets another turn. 
+
+Player 1's Tile : [ 3w(R), 4b(R), 5b(R), 7b(R), 7w(R), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H), 9b(H), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 2's Turn: 
+
+Target index is: 6, Guessed number is: 10
+Incorrect guess! Player 2 reveals a clue tile. 
+
+Player 1's Tile : [ 3w(R), 4b(R), 5b(R), 7b(R), 7w(R), 11b(H) ]
+Player 2's Tile : [ 2w(H), 4w(H), 6b(H), 8b(H), 9b(R), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 1's Turn: 
+Clue tile received: 2b
+
+Target index is: 1, Guessed number is: 2
+Correct guess! Player 1 gets another turn. 
+
+Player 1's Tile : [ 2b(H), 3w(R), 4b(R), 5b(R), 7b(R), 7w(R), 11b(H) ]
+Player 2's Tile : [ 2w(R), 4w(H), 6b(H), 8b(H), 9b(R), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 1's Turn: 
+
+Target index is: 2, Guessed number is: 4
+Correct guess! Player 1 gets another turn. 
+
+Player 1's Tile : [ 2b(H), 3w(R), 4b(R), 5b(R), 7b(R), 7w(R), 11b(H) ]
+Player 2's Tile : [ 2w(R), 4w(R), 6b(H), 8b(H), 9b(R), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 1's Turn: 
+
+Target index is: 3, Guessed number is: 6
+Correct guess! Player 1 gets another turn. 
+
+Player 1's Tile : [ 2b(H), 3w(R), 4b(R), 5b(R), 7b(R), 7w(R), 11b(H) ]
+Player 2's Tile : [ 2w(R), 4w(R), 6b(R), 8b(H), 9b(R), 9w(R) ]
+--------------------------------------------------------------------------------------------------
+Player 1's Turn: 
+
+Target index is: 4, Guessed number is: 8
+
+Correct guess!
+Player 2 has lost!
+Player 1 is the winner!
